@@ -1,6 +1,6 @@
 <template>
     <div>
-       <h2>这是一个标题呀呀呀!!!</h2>
+       <h2>这是一个标题呀!!</h2>
     </div>
 </template>
 
